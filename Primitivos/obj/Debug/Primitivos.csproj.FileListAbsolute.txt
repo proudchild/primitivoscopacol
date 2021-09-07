@@ -1,0 +1,7 @@
+C:\Users\mitat\source\repos\Primitivos\Primitivos\bin\Debug\Primitivos.exe.config
+C:\Users\mitat\source\repos\Primitivos\Primitivos\bin\Debug\Primitivos.exe
+C:\Users\mitat\source\repos\Primitivos\Primitivos\bin\Debug\Primitivos.pdb
+C:\Users\mitat\source\repos\Primitivos\Primitivos\obj\Debug\Primitivos.csproj.AssemblyReference.cache
+C:\Users\mitat\source\repos\Primitivos\Primitivos\obj\Debug\Primitivos.csproj.CoreCompileInputs.cache
+C:\Users\mitat\source\repos\Primitivos\Primitivos\obj\Debug\Primitivos.exe
+C:\Users\mitat\source\repos\Primitivos\Primitivos\obj\Debug\Primitivos.pdb
